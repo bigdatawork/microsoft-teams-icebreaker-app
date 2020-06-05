@@ -1,7 +1,6 @@
 # Icebreaker App Template
 
-| [Documentation](https://github.com/OfficeDev/microsoft-teams-icebreaker-app/wiki) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-icebreaker-app/wiki/Deployment-guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-icebreaker-app/wiki/Solution-overview) |
-| ---- | ---- | ---- |
+[Deployment guide](https://github.com/bigdatawork/microsoft-teams-icebreaker-app/blob/master/DeploymentGuide.md) 
 
 Many good things in life come about through happenstance. Icebreaker enables happenstance for your team. Icebreaker is a Teams bot that helps the whole team get closer by pairing up members every week at random to meet for coffee, burgers, pizza, or a walk around the block. The bot does the heavy lifting of finding a new person to meet with each week, and aids in scheduling the meetup.
 
